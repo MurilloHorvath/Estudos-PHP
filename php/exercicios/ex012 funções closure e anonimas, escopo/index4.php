@@ -19,7 +19,6 @@ echo "<p>$y</p>"; //o valor de $y nao foi alterado na closure
 
 //arrow functions
 //capturam automaticamente as variaveis globais
-
 $x = 20;
 $y = 30;
 

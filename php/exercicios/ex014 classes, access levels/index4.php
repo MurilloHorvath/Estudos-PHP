@@ -1,7 +1,7 @@
 <?php
 
 //var keyword
-// noa recomendavel atualmente
+// nao recomendavel atualmente
 class homem{
     var $nome, $apelido;
 }
